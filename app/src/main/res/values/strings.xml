@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AndroidEngineerExercise</string>
+    <string name="main_text">GreenFlag customers can create an account to access</string>
+    <string name="text0">Car health updates</string>
+    <string name="text1">Request a rescue online</string>
+    <string name="text2">Policy information</string>
+    <string name="button_text">Create an account</string>
+    <string name="login_header">Create an account</string>
+    <string name="email_text">Email address</string>
+    <string name="repeat_password_text">Repeat password</string>
+    <string name="create_password_text">Create password</string>
+    <string name="hint_text">Your password should have a minimum of 8 characters and contain at least one number, one uppercase and one lower case letter. You can use special characters.</string>
+    <string name="button_next">Next</string>
+    <string name="password_error_message_1">Y\u0009our passwords don\'t match</string>
+    <string name="password_error_message_2">\u0009One of the passwords you entered wasn\'t valid</string>
+    <string name="email_error_message">\u0009Invalid email</string>
+</resources>
